@@ -1,2 +1,2 @@
 # tutorial
-## It's just Some tutorial for a NewPlayer:)
+## It's just Some tutorial from a NewPlayer:)
